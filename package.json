@@ -1,0 +1,25 @@
+{
+  "name": "not-binary",
+  "version": "1.0.0",
+  "description": "Returns true, if not a binary number or string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/notBinary.git"
+  },
+  "keywords": [
+    "binary",
+    "not-binary",
+    "is-binary",
+    "check-binary"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/notBinary/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/notBinary#readme"
+}
