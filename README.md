@@ -2,6 +2,8 @@
 
 Returns true, if not a binary number (string).
 
+[![npm](https://img.shields.io/npm/v/not-binary.svg)](https://www.npmjs.com/package/not-binary)  [![License](https://img.shields.io/npm/l/not-binary.svg)](LICENSE) 
+
 # Installation
 
 Install via npm
